@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Project_Q2_datasciencecoursera
+Project_Q2 Github_datasciencecoursera
